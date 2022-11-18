@@ -1,0 +1,27 @@
+#m {
+    width: 500px;
+    height: 500px;
+	background-color: #599aaf;
+}
+#w{
+	color: white;
+	font-family: sans-serif;
+	font-size: 15px;
+}
+button{
+	padding: 10px;
+	color: white;
+	border-color: transparent;
+	border-radius: 4px;
+	background-color:#3e798d;
+}
+button:hover{
+	background-color: white;
+	color: black;
+	box-shadow: 0 0 8px 0px;
+}
+.ww{
+	width:100%px;
+	height: 500px;
+	background-color:black;
+}
